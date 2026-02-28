@@ -1,4 +1,4 @@
-# Francisco Álvarez | Enterprise Solutions & Information Systems Architecture
+# Francisco Alvarez | Enterprise Solutions & Information Systems Architecture
 
 I design scalable enterprise solutions by integrating data architecture, process optimization, and intelligent automation.
 
