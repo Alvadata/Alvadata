@@ -1,36 +1,36 @@
 # Francisco Alvarez  
-## Enterprise Solutions & Information Systems Architecture
+## Enterprise Solutions & Data‑Driven Architecture
 
-I design scalable enterprise solutions by integrating data architecture, process engineering, and intelligent automation into cohesive digital systems.
+I design data‑driven enterprise solutions that integrate processes, automation, and scalable architecture to transform how organizations operate. My work combines analytics engineering, structured data modeling, and low‑code enterprise platforms to build cohesive digital systems that enhance efficiency, visibility, and decision‑making.
 
 ---
 
 ## Focus Areas
 
-- 🏗 Enterprise solutions & information systems architecture  
-- 📊 Analytics engineering & business intelligence frameworks  
-- 🧱 Structured data modeling (star schema) & governance-ready reporting  
-- ⚙ Process automation & low-code enterprise platforms (Microsoft 365 / Power Platform)  
-- 🔄 Legacy system restructuring & digital transformation  
+- 🏗 Enterprise solutions & architecture for scalable business systems  
+- 📊 Analytics engineering & KPI‑driven business intelligence  
+- 🧱 Data modeling (star schema), governance‑ready reporting & operational visibility  
+- ⚙ Process automation & low‑code enterprise platforms (Microsoft 365 / Power Platform)  
+- 🔄 Operational optimization & digital transformation through integrated workflows  
 
 ---
 
 ## Selected Work
 
-### Digital Transformation Program – Hospitality Operations
-
-- Integrated Information System (ERP-style design)  
-- Legacy platform migration & restructuring  
+### Digital Transformation Program – Hospitality Operations  
+- Integrated operational information system (ERP‑style architecture)  
+- Legacy platform restructuring & data model redesign  
 - Intelligent roster automation module (MVP)  
+- Process‑driven reporting framework for operational visibility  
 
-> Detailed case studies available in my portfolio.  
-> Sanitized technical implementations and architecture samples are published in dedicated repositories.
+> Full case studies available in my portfolio.  
+> Technical implementations and architecture samples published in dedicated repositories.
 
 ---
 
 ## Current Direction
 
-Transitioning from advanced data analytics into enterprise solutions architecture, with a strong focus on scalable system design and cloud integration.
+Evolving from analytics and automation into enterprise solutions architecture, with a strong focus on scalable system design, cloud integration, and data‑driven process optimization.
 
 ---
 
