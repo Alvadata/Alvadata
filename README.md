@@ -1,37 +1,48 @@
 # Francisco Alvarez  
-## Soluciones Empresariales & Arquitectura Basada en Datos
+## Enterprise Solutions & Data‑Driven Architecture
 
-Diseño soluciones empresariales basadas en datos que integran procesos, automatización y arquitectura escalable para transformar la operación de las organizaciones. Mi trabajo combina ingeniería analítica, modelamiento de datos estructurado y plataformas low‑code para construir sistemas digitales coherentes que mejoran la eficiencia, la visibilidad y la toma de decisiones.
-
----
-
-## Áreas de Enfoque
-
-- 🏗 Arquitectura de soluciones empresariales y sistemas escalables  
-- 📊 Ingeniería analítica y business intelligence orientado a KPIs  
-- 🧱 Modelamiento de datos (star schema), reporting gobernado y visibilidad operacional  
-- ⚙ Automatización de procesos y plataformas low‑code (Microsoft 365 / Power Platform)  
-- 🔄 Optimización operativa y transformación digital mediante flujos integrados  
+I design data‑driven enterprise solutions that integrate processes, automation, and scalable architecture to transform how organizations operate. My work combines analytics engineering, structured data modeling, and low‑code enterprise platforms to build cohesive digital systems that enhance efficiency, visibility, and decision‑making.
 
 ---
 
-## Proyectos Destacados
+## Focus Areas
 
-### Centro de Operaciones Logisticas– Codelco El Teniente (Chile)  
-- Desarrollo de modelos de datos estructurados para monitoreo operacional  
-- Dashboards de control en tiempo real para la cadena de suministro  
-- Integración de procesos, KPIs y sistemas de gestión  
-- Automatización de reportes y mejora de visibilidad para toma de decisiones  
-- Soporte directo a la operación del CIOL (Centro Integrado de Operaciones Logisticas)  
+- 🏗 Enterprise solutions and scalable systems architecture  
+- 📊 Analytics engineering and KPI‑driven business intelligence  
+- 🧱 Data modeling (star schema), governance‑ready reporting, and operational visibility  
+- ⚙ Process automation and low‑code enterprise platforms (Microsoft 365 / Power Platform)  
+- 🔄 Operational optimization and digital transformation through integrated workflows  
 
-### Programa de Transformación Digital – Operaciones de Hospitalidad (Australia)  
-- Sistema integrado de información operacional (arquitectura estilo ERP)  
-- Reestructuración de plataforma legacy y rediseño del modelo de datos  
-- Módulo inteligente de automatización de turnos (MVP)  
-- Framework de reporting orientado a procesos para visibilidad operacional  
+---
 
-> Estudios de caso completos disponibles en mi portafolio.  
-> Implementaciones técnicas y ejemplos de arquitectura publicados en repositorios dedicados.
+## Selected Work
+
+### Logistic Operations Control Center – Codelco El Teniente (Chile)  
+- Designed structured data models for operational monitoring  
+- Developed real‑time dashboards for supply chain performance  
+- Integrated processes, KPIs, and management systems into unified reporting  
+- Automated reporting workflows to improve decision‑making speed and accuracy  
+- Supported daily operations within the Logistic Operations Center (COL)  
+
+### Digital Transformation Program – Hospitality Operations (Australia)  
+- Designed an integrated operational information system (ERP‑style architecture)  
+- Restructured legacy platforms and redesigned the underlying data model  
+- Built an intelligent roster automation module (MVP)  
+- Developed a process‑driven reporting framework for operational visibility  
+
+> Full case studies are available in my portfolio.  
+> Sanitized technical implementations and architecture samples are published in dedicated repositories.
+
+---
+
+## Current Direction
+
+Evolving from analytics and automation into enterprise solutions architecture, with a strong focus on scalable system design, cloud integration, and data‑driven process optimization.
+
+---
+
+📍 Australia  
+🔗 LinkedIn: https://www.linkedin.com/in/francisco-alva/
 
 ---
 
