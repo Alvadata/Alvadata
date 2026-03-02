@@ -1,56 +1,62 @@
 # Francisco Alvarez  
-## Enterprise Solutions & Data‑Driven Architecture
+## Enterprise Systems | Data & Automation Architecture  
 
-I design data‑driven enterprise solutions that integrate processes, automation, and scalable architecture to transform how organizations operate. My work combines analytics engineering, structured data modeling, and low‑code enterprise platforms to build cohesive digital systems that enhance efficiency, visibility, and decision‑making.
-
----
-
-## Focus Areas
-
-- 🏗 Enterprise solutions and scalable systems architecture  
-- 📊 Analytics engineering and KPI‑driven business intelligence  
-- 🧱 Data modeling (star schema), governance‑ready reporting, and operational visibility  
-- ⚙ Process automation and low‑code enterprise platforms (Microsoft 365 / Power Platform)  
-- 🔄 Operational optimization and digital transformation through integrated workflows  
+I design data-driven enterprise solutions that integrate processes, automation, and scalable architecture to transform how organizations operate. My work combines analytics engineering, structured data modeling, and low-code enterprise platforms to build cohesive digital systems that enhance efficiency, visibility, and decision-making.
 
 ---
 
-## Selected Work
+## Focus Areas  
 
-### Logistic Operations Control Center – Codelco El Teniente (Chile)  
-- Designed structured data models for operational monitoring  
-- Developed real‑time dashboards for supply chain performance  
-- Integrated processes, KPIs, and management systems into unified reporting  
-- Automated reporting workflows to improve decision‑making speed and accuracy  
-- Supported daily operations within the Logistic Operations Center (COL)  
-
-### Digital Transformation Program – Hospitality Operations (Australia)  
-- Designed an integrated operational information system (ERP‑style architecture)  
-- Restructured legacy platforms and redesigned the underlying data model  
-- Built an intelligent roster automation module (MVP)  
-- Developed a process‑driven reporting framework for operational visibility  
-
-> Full case studies are available in my portfolio.  
-> Sanitized technical implementations and architecture samples are published in dedicated repositories.
+- 🏗 Enterprise systems design and scalable architecture  
+- 📊 Analytics engineering and KPI-driven business intelligence  
+- 🧱 Structured data modeling (star schema) and governance-ready reporting  
+- ⚙ Process automation and low-code enterprise platforms (Microsoft 365 / Power Platform)  
+- 🔄 Operational optimization through integrated digital workflows  
 
 ---
 
-## Current Direction
+## Enterprise Solution Initiatives  
 
-Evolving from analytics and automation into enterprise solutions architecture, with a strong focus on scalable system design, cloud integration, and data‑driven process optimization.
+### Large-Scale Logistics Operations Control Environment – Mining Industry (South America)  
+
+- Designed structured star-schema data models for enterprise operational monitoring  
+- Developed real-time KPI dashboards to enhance supply chain visibility  
+- Integrated operational processes, reporting layers, and management control systems into a unified information architecture  
+- Automated reporting workflows to improve decision-making speed and data reliability  
+- Supported high-demand operational environments requiring structured governance and reliability  
+
+---
+
+### Operational Digital Transformation Program – Hospitality Industry (Australia)  
+
+- Designed an integrated operational information system (ERP-style architecture)  
+- Restructured legacy platforms and redesigned underlying data structures  
+- Developed workflow optimization mechanisms and structured reporting frameworks  
+- Enhanced operational visibility and performance monitoring through centralized data models  
+- Implemented scalable automation processes aligned with business growth  
+
+---
+
+### Route Planning & Operational Monitoring System – Transport & Logistics Industry  
+
+- Designed and developed a Power Apps solution for route planning and operational interaction  
+- Structured centralized data capture mechanisms for trip tracking and performance metrics  
+- Built KPI-driven Power BI dashboards for route monitoring and resource allocation  
+- Implemented management control frameworks to support continuous improvement  
+- Integrated automation workflows to reduce manual coordination and enhance operational efficiency  
+
+---
+
+> For confidentiality reasons, specific company names and implementation details are not publicly disclosed.  
+> Additional technical insights and architecture discussions are available upon request.
+
+---
+
+## Current Direction  
+
+Progressively evolving from analytics engineering and low-code automation into enterprise systems architecture, with focus on scalable cloud design, integration patterns, and data-driven operational optimization.
 
 ---
 
 📍 Australia  
-🔗 LinkedIn: https://www.linkedin.com/in/francisco-alva/
-
----
-
-## Dirección Actual
-
-Evolucionando desde analítica y automatización hacia arquitectura de soluciones empresariales, con un fuerte enfoque en diseño de sistemas escalables, integración cloud y optimización de procesos basada en datos.
-
----
-
-📍 Australia  
-🔗 LinkedIn: https://www.linkedin.com/in/francisco-alva/
+🔗 LinkedIn: [Francisco Alvarez](https://www.linkedin.com/in/francisco-alva/)
